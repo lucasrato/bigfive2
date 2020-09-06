@@ -191,7 +191,7 @@ export default {
     }
   },
   env: {
-    API_URL: 'https://bigfive-test.com/api/' // TODO: Fix for dev environment
+    API_URL: 'https://bigfive2-rfiem6w3f.vercel.app/api/' // TODO: Fix for dev environment
   },
   build: {
     extractCSS: true,
