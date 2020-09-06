@@ -8,28 +8,28 @@ export default {
       title: 'Free open-source BigFive personality traits test',
       description: 'Take a free, open-source Big Five personality test. Learn to know your personality traits and compare yourself with your partner, colleagues, friends or family.'
     },
-    title: 'Big Five Personality Test',
-    call_to_action: 'Take the free test now',
-    no_registration: '* No registration required',
-    tests_taken: 'Over 700.000 people have taken the test',
+    title: 'Teste de Personalidade',
+    call_to_action: 'Faça agora!',
+    no_registration: '* Não é necessário registro',
+    tests_taken: 'Mais de 700.000 pessoas já fizeram o teste',
     compare: {
-      title: 'Compare yourself to others',
-      text1: 'Compare yourself with your partner, colleagues, friends or family.',
-      text2: 'Learn how you differ from other people in the five domains:',
+      title: 'Compare-se com os outros',
+      text1: 'Compare-se com seu parceiro, colegas, amigos ou família.',
+      text2: 'Aprenda como você é diferente das outras pessoas nos cinco fatores:',
       action: 'See it live in action'
     },
-    share: 'Share with your friends and find out how compatible you are',
+    share: 'Compartilhe com seus amigos e descubra quão compatíveis vocês são',
     cards: {
       open: {
-        title: 'Open',
+        title: 'Livre',
         text: 'This is an open source project under MIT-license.'
       },
       free: {
-        title: 'Free',
+        title: 'Gratuito',
         text: 'The test is completely free'
       },
       scientific: {
-        title: 'Scientific',
+        title: 'Científico',
         text: 'BigFive is a scientifically validated and reliable psychological model.'
       },
       translated: {
@@ -38,13 +38,13 @@ export default {
       }
     },
     description: {
-      top: 'Learn to know yourself better with a free, open-source personality test.',
+      top: 'Aprenda a se conhecer com uma ferramenta de teste de personalidade de livre acesso.',
       subtop: 'The',
       subtop2: ' is the most scientifically validated and reliable psychological model to measure personality.',
       reference: `Tests and evaluation for this site is gathered from
 <a href="http://ipip.ori.org" rel="noopener" target="_blank">ipip.ori.org</a>,
 inventory is from <i>Johnson's (2014) 120-item IPIP NEO-PI-R</i>.`,
-      info: 'The following test contains 120 questions which is estimated to take you about 10 minutes to complete.',
+      info: 'O teste contém 120 questões, estima-se que você levará cerca de 10 minutos para completá-lo.',
       result: 'After you have completed the test you will receive a detailed personality report in the following domains:',
       tests_taken: 'tests taken so far'
     }
@@ -62,8 +62,8 @@ inventory is from <i>Johnson's (2014) 120-item IPIP NEO-PI-R</i>.`,
     articles: 'Articles',
     privacy: 'Privacy',
     about: 'About',
-    see_results: 'See your results',
-    compare_with: 'Compare with others'
+    see_results: 'Veja seus resultados',
+    compare_with: 'Compare com os outros'
   },
   facets: {
     openness_to_experience: {
@@ -95,8 +95,8 @@ inventory is from <i>Johnson's (2014) 120-item IPIP NEO-PI-R</i>.`,
     privacy: 'privacy',
     nextButton: 'Okey, next question',
     declineButton: 'continue without sharing',
-    prefferedLanguage: 'My preffered language is',
-    selectLanguage: 'Select a language',
+    prefferedLanguage: 'Meu idioma é:',
+    selectLanguage: 'Selecione um idioma',
     iama: 'I am a',
     male: 'Male',
     female: 'Female',
